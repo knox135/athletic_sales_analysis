@@ -1,4 +1,6 @@
-# athletic_sales_analysis
+# Athletic Sales Analysis
+
+## Description
 A challenge which demonstrates the uses of groupby and pivot tables to format and analyze DataFrames in pandas.  It finds the most sales for a region, retailer, and specific product from a csv file.
 
 ## Requirements:
